@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "ngxs-firebase-1",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

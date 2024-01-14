@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngxs-firebase1": {
+      "hosting": {
+        "ngxs-firebase-1": [
+          "ngxs-firebase1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngxs-firebase1"
+  }
+}
